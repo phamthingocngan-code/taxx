@@ -1,6 +1,6 @@
 
 import streamlit as st
-
+st.title("banner.jpg")
 st.title("💰 App tính Thuế Thu Nhập Cá Nhân")
 
 thu_nhap = st.number_input(
